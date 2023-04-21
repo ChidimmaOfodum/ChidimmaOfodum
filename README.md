@@ -1,6 +1,5 @@
-### Hi 👋 Welcome to Chidimma's GitHub Page
-
-
+### Hi 👋 I am Chidimma. 
+## Welcome to my GitHub Page
 
 Here is a little bit abobut me
 
